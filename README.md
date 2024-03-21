@@ -6,7 +6,7 @@ Launch War of the Roses game without backend.
 ## Using
 > [!WARNING]
 > Use at your own risk.
-- Download [latest release](https://github.com/angaityel/wotr-re/releases)
+- Download [latest release](https://github.com/Volucer/wotr-fixes/releases)
 - Unpack files from bundle.zip to bundle folder (e.g. C:\Program Files (x86)\Steam\steamapps\common\War of the Roses\bundle\\)
 - In game folder: Shift + Right-click on wotr.exe - select Copy as path
 - Go to Steam - Library - right click War of the Roses - Properties - LAUNCH OPTIONS
